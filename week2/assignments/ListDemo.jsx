@@ -1,18 +1,21 @@
 import React, { useState } from "react";
-import crypto from "crypto";
+
 
 function MemberTable({ members }) {
+    
     return (
         <table>
             <thead>
                 <tr>
+                    <th>UUID</th>
                     <th>Name</th>
                     <th>Age</th>
                 </tr>
             </thead>
             <tbody>
                 {members.map((member) => (
-                    <tr key={crypto.randomUUID()}>
+                    <tr key={member.uuid}>
+                        <td>{member.uuid}</td>
                         <td>{member.name}</td>
                         <td>{member.age}</td>
                     </tr>
@@ -35,10 +38,10 @@ function MemberDemo(props) {
 
 export default function ListDemo() {
     const initialMembers = [
-        { name: "Peter", age: 18 },
-        { name: "Hanne", age: 35 },
-        { name: "Janne", age: 25 },
-        { name: "Holger", age: 22 },
+        { uuid: crypto.randomUUID(), name: "Peter", age: 18 },
+        { uuid: crypto.randomUUID(), name: "Hanne", age: 35 },
+        { uuid: crypto.randomUUID(), name: "Janne", age: 25 },
+        { uuid: crypto.randomUUID(), name: "Holger", age: 22 },
     ];
 
     const [members, setMembers] = useState(initialMembers);
