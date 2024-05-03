@@ -1,0 +1,109 @@
+{
+  "books": [
+    {
+      "id": "103",
+      "title": "sit dolorem omnis",
+      "author": "Lenore Quigley",
+      "rating": 2.95,
+      "year_published": 1948
+    },
+    {
+      "id": "104",
+      "title": "et ipsam",
+      "author": "Keyon Jerde",
+      "rating": 3.65,
+      "year_published": 2009
+    },
+    {
+      "id": "105",
+      "title": "nam nam ipsum commodi",
+      "author": "Danika Bergstrom",
+      "rating": 3.55,
+      "year_published": 1823
+    },
+    {
+      "id": "106",
+      "title": "eius delectus qui quasi fugiat",
+      "author": "Taryn Rempel",
+      "rating": 0.75,
+      "year_published": 1906
+    },
+    {
+      "id": "107",
+      "title": "harum delectus in",
+      "author": "Eudora Lubowitz",
+      "rating": 1.75,
+      "year_published": 1782
+    },
+    {
+      "id": "108",
+      "title": "optio corporis velit quasi",
+      "author": "Jimmy Trantow",
+      "rating": 3.25,
+      "year_published": 1937
+    },
+    {
+      "id": "109",
+      "title": "laudantium rem",
+      "author": "Adelia Ryan",
+      "rating": 4.8,
+      "year_published": 1877
+    },
+    {
+      "id": "110",
+      "title": "cum aut",
+      "author": "Myron Tremblay",
+      "rating": 2.5,
+      "year_published": 1740
+    },
+    {
+      "id": "111",
+      "title": "sed sit id corrupti voluptatibus",
+      "author": "Kavon Emmerich",
+      "rating": 1.45,
+      "year_published": 1989
+    },
+    {
+      "id": "112",
+      "title": "ipsa aspernatur maiores",
+      "author": "Avis Tillman",
+      "rating": 4.35,
+      "year_published": 1879
+    },
+    {
+      "id": "113",
+      "title": "voluptatibus molestiae laudantium qui neque",
+      "author": "Bert Bins",
+      "rating": 2.45,
+      "year_published": 1961
+    },
+    {
+      "id": "114",
+      "title": "laboriosam enim fuga nam voluptas",
+      "author": "Elwin Frami",
+      "rating": 0.9,
+      "year_published": 1720
+    },
+    {
+      "id": "115",
+      "title": "blanditiis beatae",
+      "author": "Louvenia Hills",
+      "rating": 0.3,
+      "year_published": 1800
+    },
+    {
+      "id": "",
+      "title": "her",
+      "author": "retgtr",
+      "rating": "1",
+      "year_published": "2000"
+    },
+    {
+      "id": "",
+      "title": "test",
+      "author": "test",
+      "rating": "1",
+      "year_published": "2000"
+    }
+  ]
+}

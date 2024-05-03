@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "crypto-randomuuid": "^1.0.0"
+    "casual": "^1.6.2",
+    "crypto-randomuuid": "^1.0.0",
+    "json-server": "^1.0.0-alpha.23"
   }
 }
